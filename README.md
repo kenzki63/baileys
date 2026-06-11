@@ -2,7 +2,7 @@
 
 ![NexusTechPro Banner](https://files.catbox.moe/1rjzor.jpeg)
 
-# @nexustechpro/baileys
+# @kenzki/baileys
 
 **Advanced WhatsApp Web API — Built on WhiskeySockets/Baileys**
 
