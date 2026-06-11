@@ -1,6 +1,6 @@
 <div align="center">
 
-![NexusTechPro Banner](https://files.catbox.moe/1rjzor.jpeg)
+![NexusTechPro Banner](https://files.catbox.moe/jhc71i.jpeg)
 
 # @kenzki/baileys
 
